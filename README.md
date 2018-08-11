@@ -24,18 +24,17 @@ For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 <h5>How it looks?<\h5>
 <img src="E:\Ranjeeta_Project\fend-project-memory-game-master\fend-project-memory-game-master\img" alt="memory game">
 
-<h5> How to play? <\h5>
-<p> Click on pair of cards untill they are matched,once all cards are matched and opened you complete the game.<\p>
+<h5> How to play? </h5>
+<p> Click on pair of cards untill they are matched,once all cards are matched and opened you complete the game.</p>
 
 
 <h5>How it is built?<\h5>
 <p>This application is built using Javascript! However, to create static page we have included HTML and CSS. The logos or designs of card, used in the game, are borrowed from bootstrap and also I have used jQuery library.
 <p> I have manipulated the DOM elements.I haven't altered the HTML much as I have kept it simple and effective.</p>
     <ul>
-        <li>Convereted all static elements on HTML page to function like I have created "refresh" icon and also "stars" I have made it like as number of moves increases the "stars" get reduced.<\li>
-        <li> Created the "counter to count" the number of moves made by player and also set timer to monitor the time took by player<\li>
-        <li> After game over pop-up modal has been created to show the "Congratulations" message with number of moves,time taken by player and with play again option<\li>
-        <li> Once User clicks on play again button the new game is loaded.<\li>
-    <\ul>
+        <li>Convereted all static elements on HTML page to function like I have created "refresh" icon and also "stars" I have made it like as number of moves increases the "stars" get reduced.</li>
+        <li> Created the "counter to count" the number of moves made by player and also set timer to monitor the time took by player</li>
+        <li> After game over pop-up modal has been created to show the "Congratulations" message with number of moves,time taken by player and with play again option</li>
+        <li> Once User clicks on play again button the new game is loaded.</li>
+    </ul>
 
-<\p>
